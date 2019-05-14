@@ -1,0 +1,8 @@
+[submodule "submodules/sds"]
+	path = submodules/sds
+	url = https://github.com/antirez/sds
+	branch = master
+[submodule "submodules/cJSON"]
+	path = submodules/cJSON
+	url = https://github.com/DaveGamble/cJSON
+	branch = master
